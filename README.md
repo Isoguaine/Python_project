@@ -3,6 +3,7 @@
 ## 1. 项目简介
 本项目为中国人民大学《基于Python的问题解析与实践》课程的期末大作业。
 项目名称：[基于数据可视化与聚类分析的全球显著地震时空分布特征研究]
+数据集：[https://www.kaggle.com/datasets/usgs/earthquake-database]
 
 ---
 
